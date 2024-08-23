@@ -1,1 +1,1 @@
-# this is for practical implementation of git :git
+# this is for practical implementation of git
